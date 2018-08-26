@@ -1,0 +1,7 @@
+{
+  "name": "cr_search_app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
